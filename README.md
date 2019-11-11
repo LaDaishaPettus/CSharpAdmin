@@ -1,5 +1,5 @@
-# Admin Page(Run4It)
-This project is an admin page for the eCommerce website (Run4It). This page allows the admin to utilize the CRUD methods for any product.
+# Admin Page(Decor&More)
+This project is an admin page for the eCommerce website (Decor&More). This page allows the admin to utilize the CRUD methods for any product.
 
 ## Demo
 Below is a demo of the admin page utilizing CRUD methods.
