@@ -5,16 +5,16 @@ This project is an admin page for the eCommerce website (Decor&More). This page 
 Below is a demo of the admin page utilizing CRUD methods.
 
 ### Create
-![](public/images/createingproduct.png)
+![](ClientApp/public/images/CreatingProduct.png)
 
 ### Update
-![](public/images/updatingProduct.png)
+![](ClientApp/public/images/UpdatingProduct.png)
 
 ### DELETE
-![](public/images/DeletingProduct.png)
+![](ClientApp/public/images/DeletingProduct.png)
 
 ### Read
-![](public/images/FetchingALL.png)
+![](ClientApp/public/images/FetchingALL.png)
 
 ### Built With
 
